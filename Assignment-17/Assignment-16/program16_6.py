@@ -1,0 +1,17 @@
+def ChkNum(No):
+    if(No > 0):
+        print("Positive Number")
+    elif(No < 0):
+        print("Negative Number")
+    else:
+        print("Zero")
+
+def main():
+    Value = 0
+    
+    Value = int(input("Enter number : "))
+
+    ChkNum(Value)
+
+if __name__ == "__main__":
+    main()
