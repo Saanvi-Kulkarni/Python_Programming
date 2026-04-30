@@ -1,0 +1,5 @@
+--------------------------------------------------
+This is a log file
+--------------------------------------------------
+Duplicate file : SourceFolder1/abcd_trial.py and SourceFolder1/abcd_trial copy.py
+Duplicate file : SourceFolder1/abcd_trial copy.py and SourceFolder1/abcd_trial.py

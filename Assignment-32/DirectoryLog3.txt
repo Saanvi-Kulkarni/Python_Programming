@@ -1,0 +1,5 @@
+--------------------------------------------------
+This is a log file
+--------------------------------------------------
+Duplicate file removed : SourceFolder1/abcd_trial copy.py
+Execution time : 0.0007932186126708984 seconds
