@@ -1,0 +1,5478 @@
+--------------------------------------------------
+---- Marvellous Platform Surveillance System -----
+Log create at : Tue May  5 00:14:23 2026
+--------------------------------------------------
+
+------------------ System Report -------------------
+CPU usage : 0.6 %
+--------------------------------------------------
+RAM usage : 43.1 %
+--------------------------------------------------
+
+Disk Usage Report
+--------------------------------------------------
+/ -> 5.5 % used
+/snap/bare/5 -> 100.0 % used
+/snap/code/233 -> 100.0 % used
+/snap/code/221 -> 100.0 % used
+/snap/core20/2769 -> 100.0 % used
+/snap/core20/2717 -> 100.0 % used
+/snap/core22/2411 -> 100.0 % used
+/snap/core22/2292 -> 100.0 % used
+/snap/core24/1587 -> 100.0 % used
+/snap/firefox/7967 -> 100.0 % used
+/snap/firmware-updater/216 -> 100.0 % used
+/snap/firefox/8107 -> 100.0 % used
+/snap/gnome-42-2204/247 -> 100.0 % used
+/snap/firmware-updater/224 -> 100.0 % used
+/snap/gnome-42-2204/202 -> 100.0 % used
+/snap/mesa-2404/1165 -> 100.0 % used
+/snap/gnome-46-2404/153 -> 100.0 % used
+/snap/snap-store/1270 -> 100.0 % used
+/snap/gtk-common-themes/1535 -> 100.0 % used
+/snap/snapd/26382 -> 100.0 % used
+/snap/snap-store/1310 -> 100.0 % used
+/snap/snapd-desktop-integration/361 -> 100.0 % used
+/snap/snapd-desktop-integration/343 -> 100.0 % used
+/boot/efi -> 39.2 % used
+/snap/snapd/26865 -> 100.0 % used
+--------------------------------------------------
+Network Usage Report
+Sent : 266.03 MB
+Received : 2134.54 MB
+--------------------------------------------------
+PID : 1
+Name : systemd
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.09
+RSS : 14.05 MB
+VMS : 23.05 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 2
+Name : kthreadd
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 3
+Name : pool_workqueue_release
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 4
+Name : kworker/R-rcu_gp
+Username : root
+Status : idle
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 5
+Name : kworker/R-sync_wq
+Username : root
+Status : idle
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 6
+Name : kworker/R-kvfree_rcu_reclaim
+Username : root
+Status : idle
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 7
+Name : kworker/R-slub_flushwq
+Username : root
+Status : idle
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 8
+Name : kworker/R-netns
+Username : root
+Status : idle
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 10
+Name : kworker/0:0H-events_highpri
+Username : root
+Status : idle
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 13
+Name : kworker/R-mm_percpu_wq
+Username : root
+Status : idle
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 14
+Name : rcu_tasks_kthread
+Username : root
+Status : idle
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 15
+Name : rcu_tasks_rude_kthread
+Username : root
+Status : idle
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 16
+Name : rcu_tasks_trace_kthread
+Username : root
+Status : idle
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 17
+Name : ksoftirqd/0
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 18
+Name : rcu_preempt
+Username : root
+Status : idle
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 19
+Name : rcu_exp_par_gp_kthread_worker/0
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 20
+Name : rcu_exp_gp_kthread_worker
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 21
+Name : migration/0
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 22
+Name : idle_inject/0
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 23
+Name : cpuhp/0
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 24
+Name : cpuhp/2
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 25
+Name : idle_inject/2
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 26
+Name : migration/2
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 27
+Name : ksoftirqd/2
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 29
+Name : kworker/2:0H-events_highpri
+Username : root
+Status : idle
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 30
+Name : cpuhp/4
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 31
+Name : idle_inject/4
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 32
+Name : migration/4
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 33
+Name : ksoftirqd/4
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 35
+Name : kworker/4:0H-events_highpri
+Username : root
+Status : idle
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 36
+Name : cpuhp/5
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 37
+Name : idle_inject/5
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 38
+Name : migration/5
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 39
+Name : ksoftirqd/5
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 41
+Name : kworker/5:0H-events_highpri
+Username : root
+Status : idle
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 42
+Name : cpuhp/6
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 43
+Name : idle_inject/6
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 44
+Name : migration/6
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 45
+Name : ksoftirqd/6
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 47
+Name : kworker/6:0H-events_highpri
+Username : root
+Status : idle
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 48
+Name : cpuhp/7
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 49
+Name : idle_inject/7
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 50
+Name : migration/7
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 51
+Name : ksoftirqd/7
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 53
+Name : kworker/7:0H-events_highpri
+Username : root
+Status : idle
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 54
+Name : cpuhp/8
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 55
+Name : idle_inject/8
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 56
+Name : migration/8
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 57
+Name : ksoftirqd/8
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 59
+Name : kworker/8:0H-events_highpri
+Username : root
+Status : idle
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 60
+Name : cpuhp/9
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 61
+Name : idle_inject/9
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 62
+Name : migration/9
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 63
+Name : ksoftirqd/9
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 65
+Name : kworker/9:0H-events_highpri
+Username : root
+Status : idle
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 66
+Name : cpuhp/10
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 67
+Name : idle_inject/10
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 68
+Name : migration/10
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 69
+Name : ksoftirqd/10
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 71
+Name : kworker/10:0H-i915_cleanup
+Username : root
+Status : idle
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 72
+Name : cpuhp/11
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 73
+Name : idle_inject/11
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 74
+Name : migration/11
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 75
+Name : ksoftirqd/11
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 77
+Name : kworker/11:0H-events_highpri
+Username : root
+Status : idle
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 78
+Name : cpuhp/1
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 79
+Name : idle_inject/1
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 80
+Name : migration/1
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 81
+Name : ksoftirqd/1
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 83
+Name : kworker/1:0H-events_highpri
+Username : root
+Status : idle
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 84
+Name : cpuhp/3
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 85
+Name : idle_inject/3
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 86
+Name : migration/3
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 87
+Name : ksoftirqd/3
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 89
+Name : kworker/3:0H-events_highpri
+Username : root
+Status : idle
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 90
+Name : kdevtmpfs
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 91
+Name : kworker/R-inet_frag_wq
+Username : root
+Status : idle
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 92
+Name : kauditd
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 93
+Name : khungtaskd
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 94
+Name : oom_reaper
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 97
+Name : kworker/R-writeback
+Username : root
+Status : idle
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 98
+Name : kcompactd0
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 99
+Name : ksmd
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 100
+Name : khugepaged
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 101
+Name : kworker/R-kintegrityd
+Username : root
+Status : idle
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 102
+Name : kworker/R-kblockd
+Username : root
+Status : idle
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 103
+Name : kworker/R-blkcg_punt_bio
+Username : root
+Status : idle
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 104
+Name : irq/9-acpi
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 107
+Name : kworker/R-tpm_dev_wq
+Username : root
+Status : idle
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 109
+Name : kworker/R-ata_sff
+Username : root
+Status : idle
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 110
+Name : kworker/R-md
+Username : root
+Status : idle
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 111
+Name : kworker/R-md_bitmap
+Username : root
+Status : idle
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 112
+Name : kworker/R-edac-poller
+Username : root
+Status : idle
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 113
+Name : kworker/R-devfreq_wq
+Username : root
+Status : idle
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 115
+Name : watchdogd
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 116
+Name : kworker/10:1H
+Username : root
+Status : idle
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 117
+Name : kswapd0
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 118
+Name : ecryptfs-kthread
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 119
+Name : kworker/R-kthrotld
+Username : root
+Status : idle
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 120
+Name : kworker/R-acpi_thermal_pm
+Username : root
+Status : idle
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 123
+Name : hwrng
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 124
+Name : kworker/R-hfi-updates
+Username : root
+Status : idle
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 126
+Name : kworker/R-mld
+Username : root
+Status : idle
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 127
+Name : kworker/5:1H-kblockd
+Username : root
+Status : idle
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 128
+Name : kworker/R-ipv6_addrconf
+Username : root
+Status : idle
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 135
+Name : kworker/R-kstrp
+Username : root
+Status : idle
+Start time : 2026-04-24 12-40-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 155
+Name : kworker/R-charger_manager
+Username : root
+Status : idle
+Start time : 2026-04-24 12-40-20
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 156
+Name : kworker/2:1H-kblockd
+Username : root
+Status : idle
+Start time : 2026-04-24 12-40-20
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 183
+Name : kworker/9:1H-kblockd
+Username : root
+Status : idle
+Start time : 2026-04-24 12-40-20
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 184
+Name : kworker/0:1H-kblockd
+Username : root
+Status : idle
+Start time : 2026-04-24 12-40-20
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 203
+Name : kworker/7:1H-kblockd
+Username : root
+Status : idle
+Start time : 2026-04-24 12-40-20
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 204
+Name : kworker/1:1H-kblockd
+Username : root
+Status : idle
+Start time : 2026-04-24 12-40-20
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 206
+Name : kworker/4:1H-kblockd
+Username : root
+Status : idle
+Start time : 2026-04-24 12-40-20
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 231
+Name : kworker/3:1H-kblockd
+Username : root
+Status : idle
+Start time : 2026-04-24 12-40-20
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 232
+Name : kworker/8:1H-i915_cleanup
+Username : root
+Status : idle
+Start time : 2026-04-24 12-40-20
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 233
+Name : kworker/6:1H-kblockd
+Username : root
+Status : idle
+Start time : 2026-04-24 12-40-20
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 253
+Name : kworker/R-nvme-wq
+Username : root
+Status : idle
+Start time : 2026-04-24 12-40-20
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 254
+Name : kworker/R-nvme-reset-wq
+Username : root
+Status : idle
+Start time : 2026-04-24 12-40-20
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 255
+Name : kworker/R-nvme-delete-wq
+Username : root
+Status : idle
+Start time : 2026-04-24 12-40-20
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 256
+Name : kworker/R-nvme-auth-wq
+Username : root
+Status : idle
+Start time : 2026-04-24 12-40-20
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 261
+Name : kworker/11:1H-i915_cleanup
+Username : root
+Status : idle
+Start time : 2026-04-24 12-40-20
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 268
+Name : irq/141-SYNA32C7:00
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-20
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 269
+Name : irq/142-ELAN2514:00
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-20
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 278
+Name : kworker/R-USBC000:00-con1
+Username : root
+Status : idle
+Start time : 2026-04-24 12-40-20
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 280
+Name : spi0
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-20
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 318
+Name : jbd2/nvme0n1p6-8
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-21
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 319
+Name : kworker/R-ext4-rsv-conversion
+Username : root
+Status : idle
+Start time : 2026-04-24 12-40-21
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 587
+Name : kworker/R-cfg80211
+Username : root
+Status : idle
+Start time : 2026-04-24 12-40-21
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 622
+Name : irq/157-iwlwifi:default_queue
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-21
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 623
+Name : irq/158-iwlwifi:queue_1
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-21
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 624
+Name : irq/159-iwlwifi:queue_2
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-21
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 625
+Name : irq/160-iwlwifi:queue_3
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-21
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 626
+Name : irq/161-iwlwifi:queue_4
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-21
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 627
+Name : irq/162-iwlwifi:queue_5
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-21
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 628
+Name : irq/163-iwlwifi:queue_6
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-21
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 629
+Name : irq/164-iwlwifi:queue_7
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-21
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 630
+Name : irq/165-iwlwifi:queue_8
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-21
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 631
+Name : irq/166-iwlwifi:queue_9
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-21
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 632
+Name : irq/167-iwlwifi:queue_10
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-21
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 633
+Name : irq/168-iwlwifi:queue_11
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-21
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 634
+Name : irq/169-iwlwifi:queue_12
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-21
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 635
+Name : irq/170-iwlwifi:exception
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-21
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 639
+Name : kworker/R-cryptd
+Username : root
+Status : idle
+Start time : 2026-04-24 12-40-22
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 641
+Name : irq/16-processor_thermal_device_pci
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-22
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 664
+Name : kworker/R-ttm
+Username : root
+Status : idle
+Start time : 2026-04-24 12-40-22
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 673
+Name : card1-crtc0
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-22
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 674
+Name : card1-crtc1
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-22
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 675
+Name : card1-crtc2
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-22
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 676
+Name : card1-crtc3
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-22
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 824
+Name : irq/180-AudioDSP
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-22
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 965
+Name : bluetoothd
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-22
+CPU % : 0.00
+Memory % : 0.04
+RSS : 6.34 MB
+VMS : 13.21 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 966
+Name : dbus-daemon
+Username : messagebus
+Status : sleeping
+Start time : 2026-04-24 12-40-22
+CPU % : 0.00
+Memory % : 0.04
+RSS : 6.84 MB
+VMS : 12.09 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 974
+Name : gnome-remote-desktop-daemon
+Username : gnome-remote-desktop
+Status : sleeping
+Start time : 2026-04-24 12-40-22
+CPU % : 0.00
+Memory % : 0.10
+RSS : 16.20 MB
+VMS : 428.91 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 982
+Name : iio-sensor-proxy
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-22
+CPU % : 0.00
+Memory % : 0.05
+RSS : 7.52 MB
+VMS : 315.14 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 994
+Name : power-profiles-daemon
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-22
+CPU % : 0.00
+Memory % : 0.05
+RSS : 7.21 MB
+VMS : 314.63 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 1015
+Name : accounts-daemon
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-22
+CPU % : 0.00
+Memory % : 0.05
+RSS : 7.45 MB
+VMS : 314.54 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 1017
+Name : cron
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-22
+CPU % : 0.00
+Memory % : 0.02
+RSS : 2.61 MB
+VMS : 17.67 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 1020
+Name : switcheroo-control
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-22
+CPU % : 0.00
+Memory % : 0.04
+RSS : 6.45 MB
+VMS : 311.01 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 1027
+Name : systemd-logind
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-22
+CPU % : 0.00
+Memory % : 0.06
+RSS : 8.69 MB
+VMS : 17.73 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 1029
+Name : thermald
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-22
+CPU % : 0.00
+Memory % : 0.06
+RSS : 9.68 MB
+VMS : 423.41 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 1074
+Name : NetworkManager
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-22
+CPU % : 0.00
+Memory % : 0.12
+RSS : 19.38 MB
+VMS : 337.44 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 1082
+Name : wpa_supplicant
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-22
+CPU % : 0.00
+Memory % : 0.07
+RSS : 11.30 MB
+VMS : 17.98 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 1128
+Name : rsyslogd
+Username : syslog
+Status : sleeping
+Start time : 2026-04-24 12-40-23
+CPU % : 0.00
+Memory % : 0.04
+RSS : 5.52 MB
+VMS : 217.35 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 1277
+Name : upowerd
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-23
+CPU % : 0.00
+Memory % : 0.07
+RSS : 10.90 MB
+VMS : 320.34 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 1294
+Name : unattended-upgr
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-23
+CPU % : 0.00
+Memory % : 0.14
+RSS : 21.91 MB
+VMS : 118.08 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 1319
+Name : gdm3
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-23
+CPU % : 0.00
+Memory % : 0.05
+RSS : 8.47 MB
+VMS : 315.90 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 1368
+Name : rtkit-daemon
+Username : rtkit
+Status : sleeping
+Start time : 2026-04-24 12-40-24
+CPU % : 0.00
+Memory % : 0.02
+RSS : 3.21 MB
+VMS : 86.40 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 1423
+Name : krfcommd
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-24
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 1503
+Name : colord
+Username : colord
+Status : sleeping
+Start time : 2026-04-24 12-40-25
+CPU % : 0.00
+Memory % : 0.09
+RSS : 14.71 MB
+VMS : 921.50 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 1961
+Name : kerneloops
+Username : kernoops
+Status : sleeping
+Start time : 2026-04-24 12-40-27
+CPU % : 0.00
+Memory % : 0.01
+RSS : 2.23 MB
+VMS : 12.45 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 1964
+Name : kerneloops
+Username : kernoops
+Status : sleeping
+Start time : 2026-04-24 12-40-27
+CPU % : 0.00
+Memory % : 0.01
+RSS : 2.12 MB
+VMS : 12.45 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 1996
+Name : gdm-session-worker
+Username : root
+Status : sleeping
+Start time : 2026-04-24 12-40-28
+CPU % : 0.00
+Memory % : 0.08
+RSS : 11.98 MB
+VMS : 534.71 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 2053
+Name : systemd
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-40-57
+CPU % : 0.00
+Memory % : 0.08
+RSS : 12.96 MB
+VMS : 21.14 MB
+Open Files : 4
+--------------------------------------------------
+PID : 2056
+Name : (sd-pam)
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-40-57
+CPU % : 0.00
+Memory % : 0.02
+RSS : 3.57 MB
+VMS : 20.96 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 2067
+Name : pipewire
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-40-57
+CPU % : 0.00
+Memory % : 0.10
+RSS : 16.06 MB
+VMS : 123.90 MB
+Open Files : 2
+--------------------------------------------------
+PID : 2068
+Name : pipewire
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-40-57
+CPU % : 0.00
+Memory % : 0.04
+RSS : 5.70 MB
+VMS : 103.91 MB
+Open Files : 0
+--------------------------------------------------
+PID : 2070
+Name : snapd-desktop-integration
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-40-57
+CPU % : 0.00
+Memory % : 0.08
+RSS : 13.22 MB
+VMS : 46.62 MB
+Open Files : 0
+--------------------------------------------------
+PID : 2072
+Name : wireplumber
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-40-57
+CPU % : 0.00
+Memory % : 0.11
+RSS : 16.79 MB
+VMS : 405.11 MB
+Open Files : 0
+--------------------------------------------------
+PID : 2073
+Name : pipewire-pulse
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-40-57
+CPU % : 0.00
+Memory % : 0.20
+RSS : 31.65 MB
+VMS : 140.42 MB
+Open Files : 0
+--------------------------------------------------
+PID : 2075
+Name : gnome-keyring-daemon
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-40-57
+CPU % : 0.00
+Memory % : 0.06
+RSS : 9.50 MB
+VMS : 317.65 MB
+Open Files : 0
+--------------------------------------------------
+PID : 2091
+Name : dbus-daemon
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-40-57
+CPU % : 0.00
+Memory % : 0.05
+RSS : 7.14 MB
+VMS : 11.69 MB
+Open Files : 0
+--------------------------------------------------
+PID : 2134
+Name : xdg-document-portal
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-40-57
+CPU % : 0.00
+Memory % : 0.05
+RSS : 7.30 MB
+VMS : 604.45 MB
+Open Files : 0
+--------------------------------------------------
+PID : 2138
+Name : xdg-permission-store
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-40-57
+CPU % : 0.00
+Memory % : 0.04
+RSS : 5.71 MB
+VMS : 310.65 MB
+Open Files : 0
+--------------------------------------------------
+PID : 2145
+Name : fusermount3
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-40-57
+CPU % : 0.00
+Memory % : 0.01
+RSS : 1.89 MB
+VMS : 2.64 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 2165
+Name : gdm-wayland-session
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-40-58
+CPU % : 0.00
+Memory % : 0.04
+RSS : 5.95 MB
+VMS : 238.61 MB
+Open Files : 0
+--------------------------------------------------
+PID : 2180
+Name : gnome-session-binary
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-40-58
+CPU % : 0.00
+Memory % : 0.10
+RSS : 16.08 MB
+VMS : 299.71 MB
+Open Files : 0
+--------------------------------------------------
+PID : 2248
+Name : gcr-ssh-agent
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-40-58
+CPU % : 0.00
+Memory % : 0.04
+RSS : 6.87 MB
+VMS : 158.84 MB
+Open Files : 0
+--------------------------------------------------
+PID : 2249
+Name : gnome-session-ctl
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-40-58
+CPU % : 0.00
+Memory % : 0.03
+RSS : 5.45 MB
+VMS : 97.87 MB
+Open Files : 0
+--------------------------------------------------
+PID : 2263
+Name : gvfsd
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-40-58
+CPU % : 0.00
+Memory % : 0.05
+RSS : 7.39 MB
+VMS : 315.36 MB
+Open Files : 0
+--------------------------------------------------
+PID : 2271
+Name : gvfsd-fuse
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-40-58
+CPU % : 0.00
+Memory % : 0.04
+RSS : 6.49 MB
+VMS : 457.40 MB
+Open Files : 0
+--------------------------------------------------
+PID : 2274
+Name : gnome-session-binary
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-40-58
+CPU % : 0.00
+Memory % : 0.11
+RSS : 17.14 MB
+VMS : 516.77 MB
+Open Files : 0
+--------------------------------------------------
+PID : 2325
+Name : at-spi-bus-launcher
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-40-58
+CPU % : 0.00
+Memory % : 0.05
+RSS : 7.12 MB
+VMS : 373.97 MB
+Open Files : 0
+--------------------------------------------------
+PID : 2338
+Name : dbus-daemon
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-40-58
+CPU % : 0.00
+Memory % : 0.03
+RSS : 4.79 MB
+VMS : 9.39 MB
+Open Files : 0
+--------------------------------------------------
+PID : 2339
+Name : gnome-shell
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-40-58
+CPU % : 0.00
+Memory % : 2.25
+RSS : 353.02 MB
+VMS : 4677.66 MB
+Open Files : 4
+--------------------------------------------------
+PID : 2454
+Name : at-spi2-registryd
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-40-59
+CPU % : 0.00
+Memory % : 0.04
+RSS : 6.98 MB
+VMS : 230.54 MB
+Open Files : 0
+--------------------------------------------------
+PID : 2483
+Name : gnome-shell-calendar-server
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-40-59
+CPU % : 0.00
+Memory % : 0.11
+RSS : 16.52 MB
+VMS : 639.36 MB
+Open Files : 0
+--------------------------------------------------
+PID : 2491
+Name : evolution-source-registry
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-40-59
+CPU % : 0.00
+Memory % : 0.26
+RSS : 41.20 MB
+VMS : 1251.30 MB
+Open Files : 0
+--------------------------------------------------
+PID : 2492
+Name : snapd-desktop-integration
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-40-59
+CPU % : 0.00
+Memory % : 0.21
+RSS : 32.43 MB
+VMS : 509.66 MB
+Open Files : 0
+--------------------------------------------------
+PID : 2505
+Name : gjs
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-40-59
+CPU % : 0.00
+Memory % : 0.17
+RSS : 26.14 MB
+VMS : 2808.75 MB
+Open Files : 0
+--------------------------------------------------
+PID : 2511
+Name : ibus-daemon
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-40-59
+CPU % : 0.00
+Memory % : 0.07
+RSS : 11.76 MB
+VMS : 388.20 MB
+Open Files : 0
+--------------------------------------------------
+PID : 2514
+Name : gsd-a11y-settings
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-40-59
+CPU % : 0.00
+Memory % : 0.04
+RSS : 6.30 MB
+VMS : 383.00 MB
+Open Files : 0
+--------------------------------------------------
+PID : 2517
+Name : gsd-color
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-40-59
+CPU % : 0.00
+Memory % : 0.16
+RSS : 24.54 MB
+VMS : 415.85 MB
+Open Files : 0
+--------------------------------------------------
+PID : 2518
+Name : gsd-datetime
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-40-59
+CPU % : 0.00
+Memory % : 0.08
+RSS : 11.80 MB
+VMS : 430.02 MB
+Open Files : 0
+--------------------------------------------------
+PID : 2520
+Name : gsd-housekeeping
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-40-59
+CPU % : 0.00
+Memory % : 0.05
+RSS : 7.30 MB
+VMS : 384.58 MB
+Open Files : 1
+--------------------------------------------------
+PID : 2533
+Name : gsd-keyboard
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-40-59
+CPU % : 0.00
+Memory % : 0.15
+RSS : 23.78 MB
+VMS : 414.74 MB
+Open Files : 0
+--------------------------------------------------
+PID : 2537
+Name : gsd-media-keys
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-40-59
+CPU % : 0.00
+Memory % : 0.19
+RSS : 29.90 MB
+VMS : 800.89 MB
+Open Files : 1
+--------------------------------------------------
+PID : 2543
+Name : gsd-power
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-40-59
+CPU % : 0.00
+Memory % : 0.19
+RSS : 30.24 MB
+VMS : 591.77 MB
+Open Files : 1
+--------------------------------------------------
+PID : 2546
+Name : gsd-print-notifications
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-40-59
+CPU % : 0.00
+Memory % : 0.07
+RSS : 10.90 MB
+VMS : 324.51 MB
+Open Files : 0
+--------------------------------------------------
+PID : 2547
+Name : gsd-rfkill
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-40-59
+CPU % : 0.00
+Memory % : 0.04
+RSS : 6.14 MB
+VMS : 527.10 MB
+Open Files : 0
+--------------------------------------------------
+PID : 2550
+Name : gsd-screensaver-proxy
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-40-59
+CPU % : 0.00
+Memory % : 0.04
+RSS : 6.03 MB
+VMS : 310.77 MB
+Open Files : 0
+--------------------------------------------------
+PID : 2554
+Name : gsd-sharing
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-40-59
+CPU % : 0.00
+Memory % : 0.07
+RSS : 11.59 MB
+VMS : 539.05 MB
+Open Files : 0
+--------------------------------------------------
+PID : 2557
+Name : gsd-smartcard
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-40-59
+CPU % : 0.00
+Memory % : 0.05
+RSS : 7.65 MB
+VMS : 457.25 MB
+Open Files : 0
+--------------------------------------------------
+PID : 2558
+Name : gsd-sound
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-40-59
+CPU % : 0.00
+Memory % : 0.06
+RSS : 9.07 MB
+VMS : 392.88 MB
+Open Files : 0
+--------------------------------------------------
+PID : 2560
+Name : gsd-wacom
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-40-59
+CPU % : 0.00
+Memory % : 0.16
+RSS : 24.67 MB
+VMS : 415.80 MB
+Open Files : 0
+--------------------------------------------------
+PID : 2586
+Name : evolution-alarm-notify
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-40-59
+CPU % : 0.00
+Memory % : 0.39
+RSS : 61.73 MB
+VMS : 888.01 MB
+Open Files : 0
+--------------------------------------------------
+PID : 2616
+Name : gsd-disk-utility-notify
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-40-59
+CPU % : 0.00
+Memory % : 0.04
+RSS : 6.77 MB
+VMS : 298.59 MB
+Open Files : 0
+--------------------------------------------------
+PID : 2688
+Name : goa-daemon
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-40-59
+CPU % : 0.00
+Memory % : 0.15
+RSS : 23.17 MB
+VMS : 542.32 MB
+Open Files : 0
+--------------------------------------------------
+PID : 2692
+Name : ibus-memconf
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-40-59
+CPU % : 0.00
+Memory % : 0.04
+RSS : 6.76 MB
+VMS : 239.56 MB
+Open Files : 0
+--------------------------------------------------
+PID : 2693
+Name : ibus-extension-gtk3
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-40-59
+CPU % : 0.00
+Memory % : 0.21
+RSS : 33.31 MB
+VMS : 424.29 MB
+Open Files : 0
+--------------------------------------------------
+PID : 2695
+Name : gvfs-udisks2-volume-monitor
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-40-59
+CPU % : 0.00
+Memory % : 0.06
+RSS : 9.74 MB
+VMS : 388.79 MB
+Open Files : 1
+--------------------------------------------------
+PID : 2700
+Name : ibus-portal
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-40-59
+CPU % : 0.00
+Memory % : 0.04
+RSS : 6.82 MB
+VMS : 311.61 MB
+Open Files : 0
+--------------------------------------------------
+PID : 2740
+Name : goa-identity-service
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-40-59
+CPU % : 0.00
+Memory % : 0.05
+RSS : 8.50 MB
+VMS : 388.47 MB
+Open Files : 0
+--------------------------------------------------
+PID : 2751
+Name : gsd-printer
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-40-59
+CPU % : 0.00
+Memory % : 0.09
+RSS : 14.58 MB
+VMS : 414.95 MB
+Open Files : 0
+--------------------------------------------------
+PID : 2754
+Name : evolution-calendar-factory
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-40-59
+CPU % : 0.00
+Memory % : 0.15
+RSS : 23.60 MB
+VMS : 1406.35 MB
+Open Files : 0
+--------------------------------------------------
+PID : 2773
+Name : gvfs-goa-volume-monitor
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-40-59
+CPU % : 0.00
+Memory % : 0.04
+RSS : 5.94 MB
+VMS : 310.98 MB
+Open Files : 0
+--------------------------------------------------
+PID : 2789
+Name : gvfs-afc-volume-monitor
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-40-59
+CPU % : 0.00
+Memory % : 0.05
+RSS : 7.50 MB
+VMS : 388.71 MB
+Open Files : 0
+--------------------------------------------------
+PID : 2801
+Name : gvfs-gphoto2-volume-monitor
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-40-59
+CPU % : 0.00
+Memory % : 0.04
+RSS : 6.37 MB
+VMS : 311.94 MB
+Open Files : 0
+--------------------------------------------------
+PID : 2805
+Name : evolution-addressbook-factory
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-40-59
+CPU % : 0.00
+Memory % : 0.19
+RSS : 29.07 MB
+VMS : 822.45 MB
+Open Files : 1
+--------------------------------------------------
+PID : 2815
+Name : gvfs-mtp-volume-monitor
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-40-59
+CPU % : 0.00
+Memory % : 0.04
+RSS : 5.95 MB
+VMS : 311.00 MB
+Open Files : 0
+--------------------------------------------------
+PID : 2840
+Name : ibus-engine-simple
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-41-00
+CPU % : 0.00
+Memory % : 0.04
+RSS : 7.05 MB
+VMS : 239.81 MB
+Open Files : 0
+--------------------------------------------------
+PID : 2858
+Name : dconf-service
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-41-00
+CPU % : 0.00
+Memory % : 0.03
+RSS : 5.36 MB
+VMS : 225.02 MB
+Open Files : 0
+--------------------------------------------------
+PID : 2873
+Name : gvfsd-trash
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-41-00
+CPU % : 0.00
+Memory % : 0.05
+RSS : 8.35 MB
+VMS : 603.73 MB
+Open Files : 1
+--------------------------------------------------
+PID : 2895
+Name : xdg-desktop-portal
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-41-00
+CPU % : 0.00
+Memory % : 0.09
+RSS : 14.03 MB
+VMS : 693.76 MB
+Open Files : 0
+--------------------------------------------------
+PID : 2906
+Name : tracker-miner-fs-3
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-41-00
+CPU % : 0.00
+Memory % : 0.43
+RSS : 67.70 MB
+VMS : 888.84 MB
+Open Files : 36
+--------------------------------------------------
+PID : 2907
+Name : xdg-desktop-portal-gnome
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-41-00
+CPU % : 0.00
+Memory % : 0.28
+RSS : 43.43 MB
+VMS : 771.27 MB
+Open Files : 0
+--------------------------------------------------
+PID : 2935
+Name : gjs
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-41-00
+CPU % : 0.00
+Memory % : 0.17
+RSS : 26.27 MB
+VMS : 2872.64 MB
+Open Files : 0
+--------------------------------------------------
+PID : 2962
+Name : xdg-desktop-portal-gtk
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-41-01
+CPU % : 0.00
+Memory % : 0.19
+RSS : 29.53 MB
+VMS : 491.42 MB
+Open Files : 0
+--------------------------------------------------
+PID : 3029
+Name : gvfsd-metadata
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-41-01
+CPU % : 0.00
+Memory % : 0.04
+RSS : 6.12 MB
+VMS : 239.35 MB
+Open Files : 4
+--------------------------------------------------
+PID : 3109
+Name : gvfsd-recent
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-41-12
+CPU % : 0.00
+Memory % : 0.05
+RSS : 8.15 MB
+VMS : 387.86 MB
+Open Files : 0
+--------------------------------------------------
+PID : 3233
+Name : seahorse
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-41-33
+CPU % : 0.00
+Memory % : 0.29
+RSS : 45.16 MB
+VMS : 439.66 MB
+Open Files : 0
+--------------------------------------------------
+PID : 3560
+Name : snap
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-41-40
+CPU % : 0.00
+Memory % : 0.16
+RSS : 25.08 MB
+VMS : 1869.45 MB
+Open Files : 0
+--------------------------------------------------
+PID : 4440
+Name : update-notifier
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 12-41-59
+CPU % : 0.00
+Memory % : 0.23
+RSS : 36.44 MB
+VMS : 568.74 MB
+Open Files : 1
+--------------------------------------------------
+PID : 6558
+Name : Xwayland
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 13-05-25
+CPU % : 7.50
+Memory % : 0.84
+RSS : 131.97 MB
+VMS : 600.59 MB
+Open Files : 0
+--------------------------------------------------
+PID : 6568
+Name : gsd-xsettings
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 13-05-25
+CPU % : 0.00
+Memory % : 0.53
+RSS : 82.86 MB
+VMS : 842.91 MB
+Open Files : 0
+--------------------------------------------------
+PID : 6592
+Name : ibus-x11
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 13-05-25
+CPU % : 0.00
+Memory % : 0.18
+RSS : 28.77 MB
+VMS : 345.49 MB
+Open Files : 0
+--------------------------------------------------
+PID : 6598
+Name : mutter-x11-frames
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-24 13-05-25
+CPU % : 0.00
+Memory % : 0.66
+RSS : 103.54 MB
+VMS : 1153.86 MB
+Open Files : 0
+--------------------------------------------------
+PID : 7970
+Name : fwupd
+Username : root
+Status : sleeping
+Start time : 2026-04-24 13-11-56
+CPU % : 0.00
+Memory % : 0.29
+RSS : 45.64 MB
+VMS : 647.33 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 8406
+Name : firefox
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-25 10-37-55
+CPU % : 0.00
+Memory % : 5.38
+RSS : 845.00 MB
+VMS : 12256.85 MB
+Open Files : 55
+--------------------------------------------------
+PID : 8483
+Name : crashhelper
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-25 10-37-55
+CPU % : 0.00
+Memory % : 0.02
+RSS : 2.68 MB
+VMS : 145.88 MB
+Open Files : 2
+--------------------------------------------------
+PID : 8589
+Name : forkserver
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-25 10-37-56
+CPU % : 0.00
+Memory % : 0.22
+RSS : 34.48 MB
+VMS : 435.10 MB
+Open Files : 2
+--------------------------------------------------
+PID : 8592
+Name : Socket Process
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-25 10-37-56
+CPU % : 0.00
+Memory % : 0.25
+RSS : 38.83 MB
+VMS : 449.21 MB
+Open Files : 2
+--------------------------------------------------
+PID : 8619
+Name : Privileged Cont
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-25 10-37-57
+CPU % : 0.00
+Memory % : 1.30
+RSS : 204.75 MB
+VMS : 2766.57 MB
+Open Files : 4
+--------------------------------------------------
+PID : 8629
+Name : RDD Process
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-25 10-37-57
+CPU % : 0.00
+Memory % : 0.87
+RSS : 137.00 MB
+VMS : 881.52 MB
+Open Files : 2
+--------------------------------------------------
+PID : 8829
+Name : WebExtensions
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-25 10-37-57
+CPU % : 0.00
+Memory % : 0.67
+RSS : 106.00 MB
+VMS : 2576.03 MB
+Open Files : 4
+--------------------------------------------------
+PID : 9168
+Name : Utility Process
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-25 10-37-58
+CPU % : 0.00
+Memory % : 0.38
+RSS : 58.94 MB
+VMS : 626.00 MB
+Open Files : 2
+--------------------------------------------------
+PID : 9178
+Name : Isolated Web Co
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-25 10-37-58
+CPU % : 0.00
+Memory % : 7.37
+RSS : 1158.02 MB
+VMS : 3835.15 MB
+Open Files : 3
+--------------------------------------------------
+PID : 38342
+Name : gnome-text-editor
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-25 13-18-13
+CPU % : 0.00
+Memory % : 0.97
+RSS : 152.36 MB
+VMS : 1886.64 MB
+Open Files : 2
+--------------------------------------------------
+PID : 46235
+Name : Isolated Web Co
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-29 19-27-39
+CPU % : 0.00
+Memory % : 2.48
+RSS : 389.31 MB
+VMS : 2946.04 MB
+Open Files : 3
+--------------------------------------------------
+PID : 48739
+Name : code
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-30 14-40-00
+CPU % : 0.00
+Memory % : 1.53
+RSS : 239.63 MB
+VMS : 1427291.41 MB
+Open Files : 97
+--------------------------------------------------
+PID : 48741
+Name : code
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-30 14-40-00
+CPU % : 0.00
+Memory % : 0.31
+RSS : 49.30 MB
+VMS : 33269.33 MB
+Open Files : 6
+--------------------------------------------------
+PID : 48742
+Name : code
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-30 14-40-00
+CPU % : 0.00
+Memory % : 0.31
+RSS : 49.29 MB
+VMS : 33269.34 MB
+Open Files : 6
+--------------------------------------------------
+PID : 48756
+Name : chrome_crashpad_handler
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-30 14-40-00
+CPU % : 0.00
+Memory % : 0.02
+RSS : 3.29 MB
+VMS : 49173.51 MB
+Open Files : 0
+--------------------------------------------------
+PID : 48787
+Name : code
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-30 14-40-01
+CPU % : 0.00
+Memory % : 0.49
+RSS : 77.62 MB
+VMS : 33118.86 MB
+Open Files : 9
+--------------------------------------------------
+PID : 48849
+Name : code
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-30 14-40-01
+CPU % : 105.30
+Memory % : 1.19
+RSS : 186.89 MB
+VMS : 33293.34 MB
+Open Files : 2
+--------------------------------------------------
+PID : 49170
+Name : code
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-30 14-40-02
+CPU % : 0.00
+Memory % : 0.77
+RSS : 120.63 MB
+VMS : 1427118.77 MB
+Open Files : 7
+--------------------------------------------------
+PID : 49193
+Name : code
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-30 14-40-02
+CPU % : 0.00
+Memory % : 1.09
+RSS : 171.05 MB
+VMS : 1427074.88 MB
+Open Files : 6
+--------------------------------------------------
+PID : 58356
+Name : code
+Username : saanvi
+Status : sleeping
+Start time : 2026-04-30 15-42-58
+CPU % : 7.20
+Memory % : 2.78
+RSS : 436.70 MB
+VMS : 1429114.50 MB
+Open Files : 22
+--------------------------------------------------
+PID : 353211
+Name : systemd-journald
+Username : root
+Status : sleeping
+Start time : 2026-05-01 08-20-37
+CPU % : 0.00
+Memory % : 0.11
+RSS : 16.62 MB
+VMS : 49.34 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 353428
+Name : systemd-timesyncd
+Username : systemd-timesync
+Status : sleeping
+Start time : 2026-05-01 08-20-37
+CPU % : 0.00
+Memory % : 0.05
+RSS : 7.54 MB
+VMS : 88.91 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 353655
+Name : systemd-udevd
+Username : root
+Status : sleeping
+Start time : 2026-05-01 08-20-38
+CPU % : 0.00
+Memory % : 0.05
+RSS : 8.00 MB
+VMS : 29.87 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 353661
+Name : psimon
+Username : root
+Status : sleeping
+Start time : 2026-05-01 08-20-38
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 353860
+Name : systemd-oomd
+Username : systemd-oom
+Status : sleeping
+Start time : 2026-05-01 08-20-38
+CPU % : 0.00
+Memory % : 0.05
+RSS : 7.40 MB
+VMS : 17.18 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 354270
+Name : systemd-resolved
+Username : systemd-resolve
+Status : sleeping
+Start time : 2026-05-01 08-20-39
+CPU % : 0.00
+Memory % : 0.09
+RSS : 13.91 MB
+VMS : 22.54 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 363253
+Name : udisksd
+Username : root
+Status : sleeping
+Start time : 2026-05-01 08-21-15
+CPU % : 0.00
+Memory % : 0.09
+RSS : 13.55 MB
+VMS : 458.94 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 374304
+Name : avahi-daemon
+Username : avahi
+Status : sleeping
+Start time : 2026-05-01 08-21-44
+CPU % : 0.00
+Memory % : 0.03
+RSS : 4.38 MB
+VMS : 8.55 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 374308
+Name : avahi-daemon
+Username : avahi
+Status : sleeping
+Start time : 2026-05-01 08-21-44
+CPU % : 0.00
+Memory % : 0.01
+RSS : 1.25 MB
+VMS : 8.28 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 395545
+Name : polkitd
+Username : polkitd
+Status : sleeping
+Start time : 2026-05-01 08-23-24
+CPU % : 0.00
+Memory % : 0.08
+RSS : 12.06 MB
+VMS : 382.18 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 395573
+Name : ModemManager
+Username : root
+Status : sleeping
+Start time : 2026-05-01 08-23-24
+CPU % : 0.00
+Memory % : 0.08
+RSS : 12.57 MB
+VMS : 383.06 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 402665
+Name : kworker/R-xfsalloc
+Username : root
+Status : idle
+Start time : 2026-05-01 08-23-48
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 402666
+Name : kworker/R-xfs_mru_cache
+Username : root
+Status : idle
+Start time : 2026-05-01 08-23-48
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 402672
+Name : jfsIO
+Username : root
+Status : sleeping
+Start time : 2026-05-01 08-23-48
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 402673
+Name : jfsCommit
+Username : root
+Status : sleeping
+Start time : 2026-05-01 08-23-48
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 402674
+Name : jfsCommit
+Username : root
+Status : sleeping
+Start time : 2026-05-01 08-23-48
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 402675
+Name : jfsCommit
+Username : root
+Status : sleeping
+Start time : 2026-05-01 08-23-48
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 402676
+Name : jfsCommit
+Username : root
+Status : sleeping
+Start time : 2026-05-01 08-23-48
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 402677
+Name : jfsCommit
+Username : root
+Status : sleeping
+Start time : 2026-05-01 08-23-48
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 402678
+Name : jfsCommit
+Username : root
+Status : sleeping
+Start time : 2026-05-01 08-23-48
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 402679
+Name : jfsCommit
+Username : root
+Status : sleeping
+Start time : 2026-05-01 08-23-48
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 402680
+Name : jfsCommit
+Username : root
+Status : sleeping
+Start time : 2026-05-01 08-23-48
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 402681
+Name : jfsCommit
+Username : root
+Status : sleeping
+Start time : 2026-05-01 08-23-48
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 402682
+Name : jfsCommit
+Username : root
+Status : sleeping
+Start time : 2026-05-01 08-23-48
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 402683
+Name : jfsCommit
+Username : root
+Status : sleeping
+Start time : 2026-05-01 08-23-48
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 402684
+Name : jfsCommit
+Username : root
+Status : sleeping
+Start time : 2026-05-01 08-23-48
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 402685
+Name : jfsSync
+Username : root
+Status : sleeping
+Start time : 2026-05-01 08-23-48
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 420170
+Name : snapd
+Username : root
+Status : sleeping
+Start time : 2026-05-01 08-26-04
+CPU % : 0.00
+Memory % : 0.25
+RSS : 39.50 MB
+VMS : 2457.30 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 421023
+Name : psimon
+Username : root
+Status : sleeping
+Start time : 2026-05-01 08-26-07
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 525652
+Name : cupsd
+Username : root
+Status : sleeping
+Start time : 2026-05-02 16-30-43
+CPU % : 0.00
+Memory % : 0.08
+RSS : 11.88 MB
+VMS : 37.49 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 525706
+Name : cups-browsed
+Username : cups-browsed
+Status : sleeping
+Start time : 2026-05-02 16-30-43
+CPU % : 0.00
+Memory % : 0.12
+RSS : 19.32 MB
+VMS : 262.19 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 559443
+Name : irq/143-mei_me
+Username : root
+Status : sleeping
+Start time : 2026-05-04 22-01-17
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 559919
+Name : code
+Username : saanvi
+Status : sleeping
+Start time : 2026-05-04 22-02-48
+CPU % : 0.00
+Memory % : 0.73
+RSS : 115.17 MB
+VMS : 1427091.28 MB
+Open Files : 6
+--------------------------------------------------
+PID : 559933
+Name : code
+Username : saanvi
+Status : sleeping
+Start time : 2026-05-04 22-02-48
+CPU % : 3.60
+Memory % : 3.06
+RSS : 480.10 MB
+VMS : 1428771.32 MB
+Open Files : 19
+--------------------------------------------------
+PID : 559967
+Name : codex
+Username : saanvi
+Status : sleeping
+Start time : 2026-05-04 22-02-51
+CPU % : 0.00
+Memory % : 0.45
+RSS : 71.00 MB
+VMS : 465.66 MB
+Open Files : 9
+--------------------------------------------------
+PID : 560228
+Name : pet
+Username : saanvi
+Status : sleeping
+Start time : 2026-05-04 22-03-04
+CPU % : 0.00
+Memory % : 0.03
+RSS : 5.11 MB
+VMS : 30.57 MB
+Open Files : 9
+--------------------------------------------------
+PID : 560425
+Name : bash
+Username : saanvi
+Status : sleeping
+Start time : 2026-05-04 22-03-04
+CPU % : 0.00
+Memory % : 0.06
+RSS : 8.73 MB
+VMS : 12.10 MB
+Open Files : 1
+--------------------------------------------------
+PID : 560802
+Name : code
+Username : saanvi
+Status : sleeping
+Start time : 2026-05-04 22-03-05
+CPU % : 0.00
+Memory % : 3.45
+RSS : 542.16 MB
+VMS : 1431993.19 MB
+Open Files : 15
+--------------------------------------------------
+PID : 561089
+Name : code
+Username : saanvi
+Status : sleeping
+Start time : 2026-05-04 22-04-46
+CPU % : 0.00
+Memory % : 2.04
+RSS : 319.68 MB
+VMS : 1427387.51 MB
+Open Files : 20
+--------------------------------------------------
+PID : 561339
+Name : code
+Username : saanvi
+Status : sleeping
+Start time : 2026-05-04 22-04-56
+CPU % : 0.00
+Memory % : 0.75
+RSS : 118.15 MB
+VMS : 1427083.27 MB
+Open Files : 6
+--------------------------------------------------
+PID : 561340
+Name : code
+Username : saanvi
+Status : sleeping
+Start time : 2026-05-04 22-04-56
+CPU % : 0.00
+Memory % : 2.96
+RSS : 464.12 MB
+VMS : 1443487.21 MB
+Open Files : 19
+--------------------------------------------------
+PID : 561427
+Name : codex
+Username : saanvi
+Status : sleeping
+Start time : 2026-05-04 22-04-59
+CPU % : 0.00
+Memory % : 0.44
+RSS : 69.60 MB
+VMS : 465.32 MB
+Open Files : 10
+--------------------------------------------------
+PID : 561723
+Name : pet
+Username : saanvi
+Status : sleeping
+Start time : 2026-05-04 22-07-41
+CPU % : 0.00
+Memory % : 0.03
+RSS : 4.09 MB
+VMS : 30.30 MB
+Open Files : 9
+--------------------------------------------------
+PID : 561841
+Name : bash
+Username : saanvi
+Status : sleeping
+Start time : 2026-05-04 22-07-41
+CPU % : 0.00
+Memory % : 0.06
+RSS : 8.86 MB
+VMS : 12.11 MB
+Open Files : 1
+--------------------------------------------------
+PID : 561883
+Name : code
+Username : saanvi
+Status : sleeping
+Start time : 2026-05-04 22-07-41
+CPU % : 0.00
+Memory % : 2.66
+RSS : 417.49 MB
+VMS : 1428657.09 MB
+Open Files : 15
+--------------------------------------------------
+PID : 562409
+Name : gjs
+Username : saanvi
+Status : sleeping
+Start time : 2026-05-04 22-13-38
+CPU % : 0.00
+Memory % : 0.45
+RSS : 70.67 MB
+VMS : 3079.87 MB
+Open Files : 2
+--------------------------------------------------
+PID : 563198
+Name : nautilus
+Username : saanvi
+Status : sleeping
+Start time : 2026-05-04 22-22-42
+CPU % : 0.00
+Memory % : 1.01
+RSS : 159.28 MB
+VMS : 1822.53 MB
+Open Files : 6
+--------------------------------------------------
+PID : 564314
+Name : bash
+Username : saanvi
+Status : sleeping
+Start time : 2026-05-04 22-41-55
+CPU % : 0.00
+Memory % : 0.06
+RSS : 9.11 MB
+VMS : 12.11 MB
+Open Files : 1
+--------------------------------------------------
+PID : 565805
+Name : kworker/u48:3-flush-259:0
+Username : root
+Status : idle
+Start time : 2026-05-04 22-48-12
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 566940
+Name : kworker/1:1-mm_percpu_wq
+Username : root
+Status : idle
+Start time : 2026-05-04 23-00-26
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 567855
+Name : kworker/6:1-mm_percpu_wq
+Username : root
+Status : idle
+Start time : 2026-05-04 23-11-48
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 568330
+Name : Isolated Web Co
+Username : saanvi
+Status : sleeping
+Start time : 2026-05-04 23-13-40
+CPU % : 0.00
+Memory % : 3.94
+RSS : 619.35 MB
+VMS : 3604.18 MB
+Open Files : 4
+--------------------------------------------------
+PID : 568504
+Name : kworker/u48:1-events_unbound
+Username : root
+Status : idle
+Start time : 2026-05-04 23-14-07
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 568612
+Name : kworker/11:2-kacpi_notify
+Username : root
+Status : idle
+Start time : 2026-05-04 23-16-23
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 569081
+Name : speech-dispatcher
+Username : saanvi
+Status : sleeping
+Start time : 2026-05-04 23-20-08
+CPU % : 0.00
+Memory % : 0.06
+RSS : 8.73 MB
+VMS : 116.71 MB
+Open Files : 6
+--------------------------------------------------
+PID : 569094
+Name : sd_espeak-ng-mb
+Username : saanvi
+Status : zombie
+Start time : 2026-05-04 23-20-08
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 569097
+Name : sd_espeak-ng
+Username : saanvi
+Status : sleeping
+Start time : 2026-05-04 23-20-08
+CPU % : 0.00
+Memory % : 0.06
+RSS : 9.73 MB
+VMS : 104.86 MB
+Open Files : 4
+--------------------------------------------------
+PID : 569100
+Name : sd_dummy
+Username : saanvi
+Status : sleeping
+Start time : 2026-05-04 23-20-08
+CPU % : 0.00
+Memory % : 0.04
+RSS : 6.05 MB
+VMS : 158.88 MB
+Open Files : 5
+--------------------------------------------------
+PID : 569103
+Name : sd_openjtalk
+Username : saanvi
+Status : sleeping
+Start time : 2026-05-04 23-20-08
+CPU % : 0.00
+Memory % : 0.02
+RSS : 2.60 MB
+VMS : 5.54 MB
+Open Files : 6
+--------------------------------------------------
+PID : 570361
+Name : kworker/7:1-events
+Username : root
+Status : idle
+Start time : 2026-05-04 23-30-14
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 570741
+Name : kworker/4:0-events
+Username : root
+Status : idle
+Start time : 2026-05-04 23-36-49
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 570815
+Name : kworker/2:0-events
+Username : root
+Status : idle
+Start time : 2026-05-04 23-38-56
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 571105
+Name : kworker/0:1-events
+Username : root
+Status : idle
+Start time : 2026-05-04 23-42-23
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 571153
+Name : kworker/10:3-events
+Username : root
+Status : idle
+Start time : 2026-05-04 23-43-21
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 571268
+Name : kworker/5:1-mm_percpu_wq
+Username : root
+Status : idle
+Start time : 2026-05-04 23-45-28
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 571347
+Name : kworker/8:1-events
+Username : root
+Status : idle
+Start time : 2026-05-04 23-45-59
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 572550
+Name : kworker/3:1-events
+Username : root
+Status : idle
+Start time : 2026-05-04 23-48-48
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 572935
+Name : kworker/4:1-cgroup_destroy
+Username : root
+Status : idle
+Start time : 2026-05-04 23-52-51
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 573102
+Name : kworker/u49:2-rb_allocator
+Username : root
+Status : idle
+Start time : 2026-05-04 23-54-17
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 573158
+Name : kworker/10:2-events
+Username : root
+Status : idle
+Start time : 2026-05-04 23-55-09
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 573213
+Name : kworker/6:2
+Username : root
+Status : idle
+Start time : 2026-05-04 23-56-05
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 573256
+Name : kworker/9:2-kacpi_notify
+Username : root
+Status : idle
+Start time : 2026-05-04 23-57-50
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 573338
+Name : kworker/0:0-i915-unordered
+Username : root
+Status : idle
+Start time : 2026-05-05 00-00-06
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 573472
+Name : kworker/7:2-events
+Username : root
+Status : idle
+Start time : 2026-05-05 00-00-37
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 573567
+Name : kworker/5:2
+Username : root
+Status : idle
+Start time : 2026-05-05 00-01-19
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 573609
+Name : kworker/3:0-mld
+Username : root
+Status : idle
+Start time : 2026-05-05 00-01-51
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 573741
+Name : kworker/11:0-events
+Username : root
+Status : idle
+Start time : 2026-05-05 00-02-31
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 573773
+Name : kworker/1:0-events
+Username : root
+Status : idle
+Start time : 2026-05-05 00-02-32
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 574170
+Name : kworker/10:1-events
+Username : root
+Status : idle
+Start time : 2026-05-05 00-04-32
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 574275
+Name : kworker/8:0-events
+Username : root
+Status : idle
+Start time : 2026-05-05 00-04-43
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 574367
+Name : kworker/2:2-cgroup_destroy
+Username : root
+Status : idle
+Start time : 2026-05-05 00-06-05
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 574438
+Name : kworker/9:0-events
+Username : root
+Status : idle
+Start time : 2026-05-05 00-07-03
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 574462
+Name : kworker/u48:2-events_power_efficient
+Username : root
+Status : idle
+Start time : 2026-05-05 00-07-27
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 574467
+Name : kworker/u49:0-i915_flip
+Username : root
+Status : idle
+Start time : 2026-05-05 00-07-52
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 574552
+Name : Web Content
+Username : saanvi
+Status : sleeping
+Start time : 2026-05-05 00-09-27
+CPU % : 0.00
+Memory % : 0.47
+RSS : 73.94 MB
+VMS : 2535.02 MB
+Open Files : 3
+--------------------------------------------------
+PID : 574589
+Name : kworker/8:2-kacpi_notify
+Username : root
+Status : idle
+Start time : 2026-05-05 00-10-03
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 574644
+Name : kworker/3:2-events
+Username : root
+Status : idle
+Start time : 2026-05-05 00-10-21
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 574646
+Name : kworker/11:1
+Username : root
+Status : idle
+Start time : 2026-05-05 00-10-32
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 574659
+Name : Web Content
+Username : saanvi
+Status : sleeping
+Start time : 2026-05-05 00-11-12
+CPU % : 0.00
+Memory % : 0.48
+RSS : 74.62 MB
+VMS : 2536.02 MB
+Open Files : 3
+--------------------------------------------------
+PID : 574753
+Name : kworker/10:0
+Username : root
+Status : idle
+Start time : 2026-05-05 00-12-00
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 574792
+Name : python3
+Username : saanvi
+Status : running
+Start time : 2026-05-05 00-12-19
+CPU % : 27.40
+Memory % : 0.16
+RSS : 24.95 MB
+VMS : 31.00 MB
+Open Files : 2
+--------------------------------------------------
+PID : 574830
+Name : Web Content
+Username : saanvi
+Status : sleeping
+Start time : 2026-05-05 00-12-33
+CPU % : 0.00
+Memory % : 0.48
+RSS : 74.94 MB
+VMS : 2536.02 MB
+Open Files : 3
+--------------------------------------------------
+PID : 574867
+Name : kworker/9:1
+Username : root
+Status : idle
+Start time : 2026-05-05 00-13-00
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+PID : 574870
+Name : kworker/u48:0-kvfree_rcu_reclaim
+Username : root
+Status : idle
+Start time : 2026-05-05 00-13-09
+CPU % : 0.00
+Memory % : 0.00
+RSS : 0.00 MB
+VMS : 0.00 MB
+Open Files : Access Denied
+--------------------------------------------------
+
+Thread Monitoring Report
+--------------------------------------------------
+Process Name : systemd
+PID          : 1
+Threads      : 1
+--------------------------------------------------
+Process Name : kthreadd
+PID          : 2
+Threads      : 1
+--------------------------------------------------
+Process Name : pool_workqueue_release
+PID          : 3
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/R-rcu_gp
+PID          : 4
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/R-sync_wq
+PID          : 5
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/R-kvfree_rcu_reclaim
+PID          : 6
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/R-slub_flushwq
+PID          : 7
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/R-netns
+PID          : 8
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/0:0H-events_highpri
+PID          : 10
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/R-mm_percpu_wq
+PID          : 13
+Threads      : 1
+--------------------------------------------------
+Process Name : rcu_tasks_kthread
+PID          : 14
+Threads      : 1
+--------------------------------------------------
+Process Name : rcu_tasks_rude_kthread
+PID          : 15
+Threads      : 1
+--------------------------------------------------
+Process Name : rcu_tasks_trace_kthread
+PID          : 16
+Threads      : 1
+--------------------------------------------------
+Process Name : ksoftirqd/0
+PID          : 17
+Threads      : 1
+--------------------------------------------------
+Process Name : rcu_preempt
+PID          : 18
+Threads      : 1
+--------------------------------------------------
+Process Name : rcu_exp_par_gp_kthread_worker/0
+PID          : 19
+Threads      : 1
+--------------------------------------------------
+Process Name : rcu_exp_gp_kthread_worker
+PID          : 20
+Threads      : 1
+--------------------------------------------------
+Process Name : migration/0
+PID          : 21
+Threads      : 1
+--------------------------------------------------
+Process Name : idle_inject/0
+PID          : 22
+Threads      : 1
+--------------------------------------------------
+Process Name : cpuhp/0
+PID          : 23
+Threads      : 1
+--------------------------------------------------
+Process Name : cpuhp/2
+PID          : 24
+Threads      : 1
+--------------------------------------------------
+Process Name : idle_inject/2
+PID          : 25
+Threads      : 1
+--------------------------------------------------
+Process Name : migration/2
+PID          : 26
+Threads      : 1
+--------------------------------------------------
+Process Name : ksoftirqd/2
+PID          : 27
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/2:0H-events_highpri
+PID          : 29
+Threads      : 1
+--------------------------------------------------
+Process Name : cpuhp/4
+PID          : 30
+Threads      : 1
+--------------------------------------------------
+Process Name : idle_inject/4
+PID          : 31
+Threads      : 1
+--------------------------------------------------
+Process Name : migration/4
+PID          : 32
+Threads      : 1
+--------------------------------------------------
+Process Name : ksoftirqd/4
+PID          : 33
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/4:0H-events_highpri
+PID          : 35
+Threads      : 1
+--------------------------------------------------
+Process Name : cpuhp/5
+PID          : 36
+Threads      : 1
+--------------------------------------------------
+Process Name : idle_inject/5
+PID          : 37
+Threads      : 1
+--------------------------------------------------
+Process Name : migration/5
+PID          : 38
+Threads      : 1
+--------------------------------------------------
+Process Name : ksoftirqd/5
+PID          : 39
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/5:0H-events_highpri
+PID          : 41
+Threads      : 1
+--------------------------------------------------
+Process Name : cpuhp/6
+PID          : 42
+Threads      : 1
+--------------------------------------------------
+Process Name : idle_inject/6
+PID          : 43
+Threads      : 1
+--------------------------------------------------
+Process Name : migration/6
+PID          : 44
+Threads      : 1
+--------------------------------------------------
+Process Name : ksoftirqd/6
+PID          : 45
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/6:0H-events_highpri
+PID          : 47
+Threads      : 1
+--------------------------------------------------
+Process Name : cpuhp/7
+PID          : 48
+Threads      : 1
+--------------------------------------------------
+Process Name : idle_inject/7
+PID          : 49
+Threads      : 1
+--------------------------------------------------
+Process Name : migration/7
+PID          : 50
+Threads      : 1
+--------------------------------------------------
+Process Name : ksoftirqd/7
+PID          : 51
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/7:0H-events_highpri
+PID          : 53
+Threads      : 1
+--------------------------------------------------
+Process Name : cpuhp/8
+PID          : 54
+Threads      : 1
+--------------------------------------------------
+Process Name : idle_inject/8
+PID          : 55
+Threads      : 1
+--------------------------------------------------
+Process Name : migration/8
+PID          : 56
+Threads      : 1
+--------------------------------------------------
+Process Name : ksoftirqd/8
+PID          : 57
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/8:0H-events_highpri
+PID          : 59
+Threads      : 1
+--------------------------------------------------
+Process Name : cpuhp/9
+PID          : 60
+Threads      : 1
+--------------------------------------------------
+Process Name : idle_inject/9
+PID          : 61
+Threads      : 1
+--------------------------------------------------
+Process Name : migration/9
+PID          : 62
+Threads      : 1
+--------------------------------------------------
+Process Name : ksoftirqd/9
+PID          : 63
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/9:0H-events_highpri
+PID          : 65
+Threads      : 1
+--------------------------------------------------
+Process Name : cpuhp/10
+PID          : 66
+Threads      : 1
+--------------------------------------------------
+Process Name : idle_inject/10
+PID          : 67
+Threads      : 1
+--------------------------------------------------
+Process Name : migration/10
+PID          : 68
+Threads      : 1
+--------------------------------------------------
+Process Name : ksoftirqd/10
+PID          : 69
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/10:0H-i915_cleanup
+PID          : 71
+Threads      : 1
+--------------------------------------------------
+Process Name : cpuhp/11
+PID          : 72
+Threads      : 1
+--------------------------------------------------
+Process Name : idle_inject/11
+PID          : 73
+Threads      : 1
+--------------------------------------------------
+Process Name : migration/11
+PID          : 74
+Threads      : 1
+--------------------------------------------------
+Process Name : ksoftirqd/11
+PID          : 75
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/11:0H-events_highpri
+PID          : 77
+Threads      : 1
+--------------------------------------------------
+Process Name : cpuhp/1
+PID          : 78
+Threads      : 1
+--------------------------------------------------
+Process Name : idle_inject/1
+PID          : 79
+Threads      : 1
+--------------------------------------------------
+Process Name : migration/1
+PID          : 80
+Threads      : 1
+--------------------------------------------------
+Process Name : ksoftirqd/1
+PID          : 81
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/1:0H-events_highpri
+PID          : 83
+Threads      : 1
+--------------------------------------------------
+Process Name : cpuhp/3
+PID          : 84
+Threads      : 1
+--------------------------------------------------
+Process Name : idle_inject/3
+PID          : 85
+Threads      : 1
+--------------------------------------------------
+Process Name : migration/3
+PID          : 86
+Threads      : 1
+--------------------------------------------------
+Process Name : ksoftirqd/3
+PID          : 87
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/3:0H-events_highpri
+PID          : 89
+Threads      : 1
+--------------------------------------------------
+Process Name : kdevtmpfs
+PID          : 90
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/R-inet_frag_wq
+PID          : 91
+Threads      : 1
+--------------------------------------------------
+Process Name : kauditd
+PID          : 92
+Threads      : 1
+--------------------------------------------------
+Process Name : khungtaskd
+PID          : 93
+Threads      : 1
+--------------------------------------------------
+Process Name : oom_reaper
+PID          : 94
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/R-writeback
+PID          : 97
+Threads      : 1
+--------------------------------------------------
+Process Name : kcompactd0
+PID          : 98
+Threads      : 1
+--------------------------------------------------
+Process Name : ksmd
+PID          : 99
+Threads      : 1
+--------------------------------------------------
+Process Name : khugepaged
+PID          : 100
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/R-kintegrityd
+PID          : 101
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/R-kblockd
+PID          : 102
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/R-blkcg_punt_bio
+PID          : 103
+Threads      : 1
+--------------------------------------------------
+Process Name : irq/9-acpi
+PID          : 104
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/R-tpm_dev_wq
+PID          : 107
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/R-ata_sff
+PID          : 109
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/R-md
+PID          : 110
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/R-md_bitmap
+PID          : 111
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/R-edac-poller
+PID          : 112
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/R-devfreq_wq
+PID          : 113
+Threads      : 1
+--------------------------------------------------
+Process Name : watchdogd
+PID          : 115
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/10:1H
+PID          : 116
+Threads      : 1
+--------------------------------------------------
+Process Name : kswapd0
+PID          : 117
+Threads      : 1
+--------------------------------------------------
+Process Name : ecryptfs-kthread
+PID          : 118
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/R-kthrotld
+PID          : 119
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/R-acpi_thermal_pm
+PID          : 120
+Threads      : 1
+--------------------------------------------------
+Process Name : hwrng
+PID          : 123
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/R-hfi-updates
+PID          : 124
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/R-mld
+PID          : 126
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/5:1H-kblockd
+PID          : 127
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/R-ipv6_addrconf
+PID          : 128
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/R-kstrp
+PID          : 135
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/R-charger_manager
+PID          : 155
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/2:1H-kblockd
+PID          : 156
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/9:1H-kblockd
+PID          : 183
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/0:1H-kblockd
+PID          : 184
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/7:1H-kblockd
+PID          : 203
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/1:1H-kblockd
+PID          : 204
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/4:1H-kblockd
+PID          : 206
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/3:1H-kblockd
+PID          : 231
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/8:1H-i915_cleanup
+PID          : 232
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/6:1H-kblockd
+PID          : 233
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/R-nvme-wq
+PID          : 253
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/R-nvme-reset-wq
+PID          : 254
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/R-nvme-delete-wq
+PID          : 255
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/R-nvme-auth-wq
+PID          : 256
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/11:1H-i915_cleanup
+PID          : 261
+Threads      : 1
+--------------------------------------------------
+Process Name : irq/141-SYNA32C7:00
+PID          : 268
+Threads      : 1
+--------------------------------------------------
+Process Name : irq/142-ELAN2514:00
+PID          : 269
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/R-USBC000:00-con1
+PID          : 278
+Threads      : 1
+--------------------------------------------------
+Process Name : spi0
+PID          : 280
+Threads      : 1
+--------------------------------------------------
+Process Name : jbd2/nvme0n1p6-8
+PID          : 318
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/R-ext4-rsv-conversion
+PID          : 319
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/R-cfg80211
+PID          : 587
+Threads      : 1
+--------------------------------------------------
+Process Name : irq/157-iwlwifi:default_queue
+PID          : 622
+Threads      : 1
+--------------------------------------------------
+Process Name : irq/158-iwlwifi:queue_1
+PID          : 623
+Threads      : 1
+--------------------------------------------------
+Process Name : irq/159-iwlwifi:queue_2
+PID          : 624
+Threads      : 1
+--------------------------------------------------
+Process Name : irq/160-iwlwifi:queue_3
+PID          : 625
+Threads      : 1
+--------------------------------------------------
+Process Name : irq/161-iwlwifi:queue_4
+PID          : 626
+Threads      : 1
+--------------------------------------------------
+Process Name : irq/162-iwlwifi:queue_5
+PID          : 627
+Threads      : 1
+--------------------------------------------------
+Process Name : irq/163-iwlwifi:queue_6
+PID          : 628
+Threads      : 1
+--------------------------------------------------
+Process Name : irq/164-iwlwifi:queue_7
+PID          : 629
+Threads      : 1
+--------------------------------------------------
+Process Name : irq/165-iwlwifi:queue_8
+PID          : 630
+Threads      : 1
+--------------------------------------------------
+Process Name : irq/166-iwlwifi:queue_9
+PID          : 631
+Threads      : 1
+--------------------------------------------------
+Process Name : irq/167-iwlwifi:queue_10
+PID          : 632
+Threads      : 1
+--------------------------------------------------
+Process Name : irq/168-iwlwifi:queue_11
+PID          : 633
+Threads      : 1
+--------------------------------------------------
+Process Name : irq/169-iwlwifi:queue_12
+PID          : 634
+Threads      : 1
+--------------------------------------------------
+Process Name : irq/170-iwlwifi:exception
+PID          : 635
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/R-cryptd
+PID          : 639
+Threads      : 1
+--------------------------------------------------
+Process Name : irq/16-processor_thermal_device_pci
+PID          : 641
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/R-ttm
+PID          : 664
+Threads      : 1
+--------------------------------------------------
+Process Name : card1-crtc0
+PID          : 673
+Threads      : 1
+--------------------------------------------------
+Process Name : card1-crtc1
+PID          : 674
+Threads      : 1
+--------------------------------------------------
+Process Name : card1-crtc2
+PID          : 675
+Threads      : 1
+--------------------------------------------------
+Process Name : card1-crtc3
+PID          : 676
+Threads      : 1
+--------------------------------------------------
+Process Name : irq/180-AudioDSP
+PID          : 824
+Threads      : 1
+--------------------------------------------------
+Process Name : bluetoothd
+PID          : 965
+Threads      : 1
+--------------------------------------------------
+Process Name : dbus-daemon
+PID          : 966
+Threads      : 1
+--------------------------------------------------
+Process Name : gnome-remote-desktop-daemon
+PID          : 974
+Threads      : 4
+--------------------------------------------------
+Process Name : iio-sensor-proxy
+PID          : 982
+Threads      : 4
+--------------------------------------------------
+Process Name : power-profiles-daemon
+PID          : 994
+Threads      : 4
+--------------------------------------------------
+Process Name : accounts-daemon
+PID          : 1015
+Threads      : 4
+--------------------------------------------------
+Process Name : cron
+PID          : 1017
+Threads      : 1
+--------------------------------------------------
+Process Name : switcheroo-control
+PID          : 1020
+Threads      : 4
+--------------------------------------------------
+Process Name : systemd-logind
+PID          : 1027
+Threads      : 1
+--------------------------------------------------
+Process Name : thermald
+PID          : 1029
+Threads      : 5
+--------------------------------------------------
+Process Name : NetworkManager
+PID          : 1074
+Threads      : 4
+--------------------------------------------------
+Process Name : wpa_supplicant
+PID          : 1082
+Threads      : 1
+--------------------------------------------------
+Process Name : rsyslogd
+PID          : 1128
+Threads      : 4
+--------------------------------------------------
+Process Name : upowerd
+PID          : 1277
+Threads      : 4
+--------------------------------------------------
+Process Name : unattended-upgr
+PID          : 1294
+Threads      : 2
+--------------------------------------------------
+Process Name : gdm3
+PID          : 1319
+Threads      : 4
+--------------------------------------------------
+Process Name : rtkit-daemon
+PID          : 1368
+Threads      : 3
+--------------------------------------------------
+Process Name : krfcommd
+PID          : 1423
+Threads      : 1
+--------------------------------------------------
+Process Name : colord
+PID          : 1503
+Threads      : 4
+--------------------------------------------------
+Process Name : kerneloops
+PID          : 1961
+Threads      : 1
+--------------------------------------------------
+Process Name : kerneloops
+PID          : 1964
+Threads      : 1
+--------------------------------------------------
+Process Name : gdm-session-worker
+PID          : 1996
+Threads      : 4
+--------------------------------------------------
+Process Name : systemd
+PID          : 2053
+Threads      : 1
+--------------------------------------------------
+Process Name : (sd-pam)
+PID          : 2056
+Threads      : 1
+--------------------------------------------------
+Process Name : pipewire
+PID          : 2067
+Threads      : 3
+--------------------------------------------------
+Process Name : pipewire
+PID          : 2068
+Threads      : 3
+--------------------------------------------------
+Process Name : snapd-desktop-integration
+PID          : 2070
+Threads      : 1
+--------------------------------------------------
+Process Name : wireplumber
+PID          : 2072
+Threads      : 6
+--------------------------------------------------
+Process Name : pipewire-pulse
+PID          : 2073
+Threads      : 3
+--------------------------------------------------
+Process Name : gnome-keyring-daemon
+PID          : 2075
+Threads      : 5
+--------------------------------------------------
+Process Name : dbus-daemon
+PID          : 2091
+Threads      : 1
+--------------------------------------------------
+Process Name : xdg-document-portal
+PID          : 2134
+Threads      : 7
+--------------------------------------------------
+Process Name : xdg-permission-store
+PID          : 2138
+Threads      : 4
+--------------------------------------------------
+Process Name : fusermount3
+PID          : 2145
+Threads      : 1
+--------------------------------------------------
+Process Name : gdm-wayland-session
+PID          : 2165
+Threads      : 4
+--------------------------------------------------
+Process Name : gnome-session-binary
+PID          : 2180
+Threads      : 4
+--------------------------------------------------
+Process Name : gcr-ssh-agent
+PID          : 2248
+Threads      : 3
+--------------------------------------------------
+Process Name : gnome-session-ctl
+PID          : 2249
+Threads      : 2
+--------------------------------------------------
+Process Name : gvfsd
+PID          : 2263
+Threads      : 4
+--------------------------------------------------
+Process Name : gvfsd-fuse
+PID          : 2271
+Threads      : 7
+--------------------------------------------------
+Process Name : gnome-session-binary
+PID          : 2274
+Threads      : 5
+--------------------------------------------------
+Process Name : at-spi-bus-launcher
+PID          : 2325
+Threads      : 5
+--------------------------------------------------
+Process Name : dbus-daemon
+PID          : 2338
+Threads      : 1
+--------------------------------------------------
+Process Name : gnome-shell
+PID          : 2339
+Threads      : 24
+--------------------------------------------------
+Process Name : at-spi2-registryd
+PID          : 2454
+Threads      : 4
+--------------------------------------------------
+Process Name : gnome-shell-calendar-server
+PID          : 2483
+Threads      : 7
+--------------------------------------------------
+Process Name : evolution-source-registry
+PID          : 2491
+Threads      : 5
+--------------------------------------------------
+Process Name : snapd-desktop-integration
+PID          : 2492
+Threads      : 6
+--------------------------------------------------
+Process Name : gjs
+PID          : 2505
+Threads      : 12
+--------------------------------------------------
+Process Name : ibus-daemon
+PID          : 2511
+Threads      : 4
+--------------------------------------------------
+Process Name : gsd-a11y-settings
+PID          : 2514
+Threads      : 5
+--------------------------------------------------
+Process Name : gsd-color
+PID          : 2517
+Threads      : 6
+--------------------------------------------------
+Process Name : gsd-datetime
+PID          : 2518
+Threads      : 5
+--------------------------------------------------
+Process Name : gsd-housekeeping
+PID          : 2520
+Threads      : 5
+--------------------------------------------------
+Process Name : gsd-keyboard
+PID          : 2533
+Threads      : 6
+--------------------------------------------------
+Process Name : gsd-media-keys
+PID          : 2537
+Threads      : 7
+--------------------------------------------------
+Process Name : gsd-power
+PID          : 2543
+Threads      : 7
+--------------------------------------------------
+Process Name : gsd-print-notifications
+PID          : 2546
+Threads      : 4
+--------------------------------------------------
+Process Name : gsd-rfkill
+PID          : 2547
+Threads      : 4
+--------------------------------------------------
+Process Name : gsd-screensaver-proxy
+PID          : 2550
+Threads      : 4
+--------------------------------------------------
+Process Name : gsd-sharing
+PID          : 2554
+Threads      : 5
+--------------------------------------------------
+Process Name : gsd-smartcard
+PID          : 2557
+Threads      : 5
+--------------------------------------------------
+Process Name : gsd-sound
+PID          : 2558
+Threads      : 5
+--------------------------------------------------
+Process Name : gsd-wacom
+PID          : 2560
+Threads      : 6
+--------------------------------------------------
+Process Name : evolution-alarm-notify
+PID          : 2586
+Threads      : 8
+--------------------------------------------------
+Process Name : gsd-disk-utility-notify
+PID          : 2616
+Threads      : 4
+--------------------------------------------------
+Process Name : goa-daemon
+PID          : 2688
+Threads      : 5
+--------------------------------------------------
+Process Name : ibus-memconf
+PID          : 2692
+Threads      : 4
+--------------------------------------------------
+Process Name : ibus-extension-gtk3
+PID          : 2693
+Threads      : 6
+--------------------------------------------------
+Process Name : gvfs-udisks2-volume-monitor
+PID          : 2695
+Threads      : 5
+--------------------------------------------------
+Process Name : ibus-portal
+PID          : 2700
+Threads      : 4
+--------------------------------------------------
+Process Name : goa-identity-service
+PID          : 2740
+Threads      : 4
+--------------------------------------------------
+Process Name : gsd-printer
+PID          : 2751
+Threads      : 4
+--------------------------------------------------
+Process Name : evolution-calendar-factory
+PID          : 2754
+Threads      : 10
+--------------------------------------------------
+Process Name : gvfs-goa-volume-monitor
+PID          : 2773
+Threads      : 4
+--------------------------------------------------
+Process Name : gvfs-afc-volume-monitor
+PID          : 2789
+Threads      : 5
+--------------------------------------------------
+Process Name : gvfs-gphoto2-volume-monitor
+PID          : 2801
+Threads      : 4
+--------------------------------------------------
+Process Name : evolution-addressbook-factory
+PID          : 2805
+Threads      : 7
+--------------------------------------------------
+Process Name : gvfs-mtp-volume-monitor
+PID          : 2815
+Threads      : 4
+--------------------------------------------------
+Process Name : ibus-engine-simple
+PID          : 2840
+Threads      : 4
+--------------------------------------------------
+Process Name : dconf-service
+PID          : 2858
+Threads      : 4
+--------------------------------------------------
+Process Name : gvfsd-trash
+PID          : 2873
+Threads      : 5
+--------------------------------------------------
+Process Name : xdg-desktop-portal
+PID          : 2895
+Threads      : 7
+--------------------------------------------------
+Process Name : tracker-miner-fs-3
+PID          : 2906
+Threads      : 8
+--------------------------------------------------
+Process Name : xdg-desktop-portal-gnome
+PID          : 2907
+Threads      : 6
+--------------------------------------------------
+Process Name : gjs
+PID          : 2935
+Threads      : 12
+--------------------------------------------------
+Process Name : xdg-desktop-portal-gtk
+PID          : 2962
+Threads      : 6
+--------------------------------------------------
+Process Name : gvfsd-metadata
+PID          : 3029
+Threads      : 4
+--------------------------------------------------
+Process Name : gvfsd-recent
+PID          : 3109
+Threads      : 4
+--------------------------------------------------
+Process Name : seahorse
+PID          : 3233
+Threads      : 6
+--------------------------------------------------
+Process Name : snap
+PID          : 3560
+Threads      : 10
+--------------------------------------------------
+Process Name : update-notifier
+PID          : 4440
+Threads      : 6
+--------------------------------------------------
+Process Name : Xwayland
+PID          : 6558
+Threads      : 5
+--------------------------------------------------
+Process Name : gsd-xsettings
+PID          : 6568
+Threads      : 8
+--------------------------------------------------
+Process Name : ibus-x11
+PID          : 6592
+Threads      : 5
+--------------------------------------------------
+Process Name : mutter-x11-frames
+PID          : 6598
+Threads      : 10
+--------------------------------------------------
+Process Name : fwupd
+PID          : 7970
+Threads      : 6
+--------------------------------------------------
+Process Name : firefox
+PID          : 8406
+Threads      : 109
+--------------------------------------------------
+Process Name : crashhelper
+PID          : 8483
+Threads      : 2
+--------------------------------------------------
+Process Name : forkserver
+PID          : 8589
+Threads      : 1
+--------------------------------------------------
+Process Name : Socket Process
+PID          : 8592
+Threads      : 6
+--------------------------------------------------
+Process Name : Privileged Cont
+PID          : 8619
+Threads      : 29
+--------------------------------------------------
+Process Name : RDD Process
+PID          : 8629
+Threads      : 9
+--------------------------------------------------
+Process Name : WebExtensions
+PID          : 8829
+Threads      : 27
+--------------------------------------------------
+Process Name : Utility Process
+PID          : 9168
+Threads      : 5
+--------------------------------------------------
+Process Name : Isolated Web Co
+PID          : 9178
+Threads      : 28
+--------------------------------------------------
+Process Name : gnome-text-editor
+PID          : 38342
+Threads      : 13
+--------------------------------------------------
+Process Name : Isolated Web Co
+PID          : 46235
+Threads      : 28
+--------------------------------------------------
+Process Name : code
+PID          : 48739
+Threads      : 35
+--------------------------------------------------
+Process Name : code
+PID          : 48741
+Threads      : 1
+--------------------------------------------------
+Process Name : code
+PID          : 48742
+Threads      : 1
+--------------------------------------------------
+Process Name : chrome_crashpad_handler
+PID          : 48756
+Threads      : 3
+--------------------------------------------------
+Process Name : code
+PID          : 48787
+Threads      : 14
+--------------------------------------------------
+Process Name : code
+PID          : 48849
+Threads      : 24
+--------------------------------------------------
+Process Name : code
+PID          : 49170
+Threads      : 23
+--------------------------------------------------
+Process Name : code
+PID          : 49193
+Threads      : 20
+--------------------------------------------------
+Process Name : code
+PID          : 58356
+Threads      : 20
+--------------------------------------------------
+Process Name : systemd-journald
+PID          : 353211
+Threads      : 1
+--------------------------------------------------
+Process Name : systemd-timesyncd
+PID          : 353428
+Threads      : 2
+--------------------------------------------------
+Process Name : systemd-udevd
+PID          : 353655
+Threads      : 1
+--------------------------------------------------
+Process Name : psimon
+PID          : 353661
+Threads      : 1
+--------------------------------------------------
+Process Name : systemd-oomd
+PID          : 353860
+Threads      : 1
+--------------------------------------------------
+Process Name : systemd-resolved
+PID          : 354270
+Threads      : 1
+--------------------------------------------------
+Process Name : udisksd
+PID          : 363253
+Threads      : 6
+--------------------------------------------------
+Process Name : avahi-daemon
+PID          : 374304
+Threads      : 1
+--------------------------------------------------
+Process Name : avahi-daemon
+PID          : 374308
+Threads      : 1
+--------------------------------------------------
+Process Name : polkitd
+PID          : 395545
+Threads      : 4
+--------------------------------------------------
+Process Name : ModemManager
+PID          : 395573
+Threads      : 4
+--------------------------------------------------
+Process Name : kworker/R-xfsalloc
+PID          : 402665
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/R-xfs_mru_cache
+PID          : 402666
+Threads      : 1
+--------------------------------------------------
+Process Name : jfsIO
+PID          : 402672
+Threads      : 1
+--------------------------------------------------
+Process Name : jfsCommit
+PID          : 402673
+Threads      : 1
+--------------------------------------------------
+Process Name : jfsCommit
+PID          : 402674
+Threads      : 1
+--------------------------------------------------
+Process Name : jfsCommit
+PID          : 402675
+Threads      : 1
+--------------------------------------------------
+Process Name : jfsCommit
+PID          : 402676
+Threads      : 1
+--------------------------------------------------
+Process Name : jfsCommit
+PID          : 402677
+Threads      : 1
+--------------------------------------------------
+Process Name : jfsCommit
+PID          : 402678
+Threads      : 1
+--------------------------------------------------
+Process Name : jfsCommit
+PID          : 402679
+Threads      : 1
+--------------------------------------------------
+Process Name : jfsCommit
+PID          : 402680
+Threads      : 1
+--------------------------------------------------
+Process Name : jfsCommit
+PID          : 402681
+Threads      : 1
+--------------------------------------------------
+Process Name : jfsCommit
+PID          : 402682
+Threads      : 1
+--------------------------------------------------
+Process Name : jfsCommit
+PID          : 402683
+Threads      : 1
+--------------------------------------------------
+Process Name : jfsCommit
+PID          : 402684
+Threads      : 1
+--------------------------------------------------
+Process Name : jfsSync
+PID          : 402685
+Threads      : 1
+--------------------------------------------------
+Process Name : snapd
+PID          : 420170
+Threads      : 18
+--------------------------------------------------
+Process Name : psimon
+PID          : 421023
+Threads      : 1
+--------------------------------------------------
+Process Name : cupsd
+PID          : 525652
+Threads      : 1
+--------------------------------------------------
+Process Name : cups-browsed
+PID          : 525706
+Threads      : 4
+--------------------------------------------------
+Process Name : irq/143-mei_me
+PID          : 559443
+Threads      : 1
+--------------------------------------------------
+Process Name : code
+PID          : 559919
+Threads      : 22
+--------------------------------------------------
+Process Name : code
+PID          : 559933
+Threads      : 22
+--------------------------------------------------
+Process Name : codex
+PID          : 559967
+Threads      : 19
+--------------------------------------------------
+Process Name : pet
+PID          : 560228
+Threads      : 13
+--------------------------------------------------
+Process Name : bash
+PID          : 560425
+Threads      : 1
+--------------------------------------------------
+Process Name : code
+PID          : 560802
+Threads      : 12
+--------------------------------------------------
+Process Name : code
+PID          : 561089
+Threads      : 19
+--------------------------------------------------
+Process Name : code
+PID          : 561339
+Threads      : 21
+--------------------------------------------------
+Process Name : code
+PID          : 561340
+Threads      : 21
+--------------------------------------------------
+Process Name : codex
+PID          : 561427
+Threads      : 19
+--------------------------------------------------
+Process Name : pet
+PID          : 561723
+Threads      : 13
+--------------------------------------------------
+Process Name : bash
+PID          : 561841
+Threads      : 1
+--------------------------------------------------
+Process Name : code
+PID          : 561883
+Threads      : 10
+--------------------------------------------------
+Process Name : gjs
+PID          : 562409
+Threads      : 14
+--------------------------------------------------
+Process Name : nautilus
+PID          : 563198
+Threads      : 13
+--------------------------------------------------
+Process Name : bash
+PID          : 564314
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/u48:3-flush-259:0
+PID          : 565805
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/1:1-mm_percpu_wq
+PID          : 566940
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/6:1-mm_percpu_wq
+PID          : 567855
+Threads      : 1
+--------------------------------------------------
+Process Name : Isolated Web Co
+PID          : 568330
+Threads      : 31
+--------------------------------------------------
+Process Name : kworker/u48:1-events_unbound
+PID          : 568504
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/11:2-kacpi_notify
+PID          : 568612
+Threads      : 1
+--------------------------------------------------
+Process Name : speech-dispatcher
+PID          : 569081
+Threads      : 5
+--------------------------------------------------
+Process Name : sd_espeak-ng-mb
+PID          : 569094
+Threads      : 1
+--------------------------------------------------
+Process Name : sd_espeak-ng
+PID          : 569097
+Threads      : 2
+--------------------------------------------------
+Process Name : sd_dummy
+PID          : 569100
+Threads      : 3
+--------------------------------------------------
+Process Name : sd_openjtalk
+PID          : 569103
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/7:1-events
+PID          : 570361
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/4:0-events
+PID          : 570741
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/2:0-events
+PID          : 570815
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/0:1-events
+PID          : 571105
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/10:3-events
+PID          : 571153
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/5:1-mm_percpu_wq
+PID          : 571268
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/8:1-events
+PID          : 571347
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/3:1-events
+PID          : 572550
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/4:1-cgroup_destroy
+PID          : 572935
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/u49:2-rb_allocator
+PID          : 573102
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/10:2-events
+PID          : 573158
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/6:2
+PID          : 573213
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/9:2-kacpi_notify
+PID          : 573256
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/0:0-i915-unordered
+PID          : 573338
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/7:2-events
+PID          : 573472
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/5:2
+PID          : 573567
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/3:0-mld
+PID          : 573609
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/11:0-events
+PID          : 573741
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/1:0-events
+PID          : 573773
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/10:1-events
+PID          : 574170
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/8:0-events
+PID          : 574275
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/2:2-cgroup_destroy
+PID          : 574367
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/9:0-events
+PID          : 574438
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/u48:2-events_power_efficient
+PID          : 574462
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/u49:0-i915_flip
+PID          : 574467
+Threads      : 1
+--------------------------------------------------
+Process Name : Web Content
+PID          : 574552
+Threads      : 27
+--------------------------------------------------
+Process Name : kworker/8:2-kacpi_notify
+PID          : 574589
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/3:2-events
+PID          : 574644
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/11:1
+PID          : 574646
+Threads      : 1
+--------------------------------------------------
+Process Name : Web Content
+PID          : 574659
+Threads      : 27
+--------------------------------------------------
+Process Name : kworker/10:0
+PID          : 574753
+Threads      : 1
+--------------------------------------------------
+Process Name : python3
+PID          : 574792
+Threads      : 1
+--------------------------------------------------
+Process Name : Web Content
+PID          : 574830
+Threads      : 27
+--------------------------------------------------
+Process Name : kworker/9:1
+PID          : 574867
+Threads      : 1
+--------------------------------------------------
+Process Name : kworker/u48:0-kvfree_rcu_reclaim
+PID          : 574870
+Threads      : 1
+--------------------------------------------------
+
+Top 10 Memory Consuming Processes
+--------------------------------------------------
+Name : Isolated Web Co | PID : 9178 | RSS : 1158.02 MB
+Name : firefox | PID : 8406 | RSS : 845.00 MB
+Name : Isolated Web Co | PID : 568330 | RSS : 619.35 MB
+Name : code | PID : 560802 | RSS : 542.29 MB
+Name : code | PID : 559933 | RSS : 480.10 MB
+Name : code | PID : 561340 | RSS : 464.12 MB
+Name : code | PID : 58356 | RSS : 436.70 MB
+Name : code | PID : 561883 | RSS : 417.49 MB
+Name : Isolated Web Co | PID : 46235 | RSS : 389.31 MB
+Name : gnome-shell | PID : 2339 | RSS : 353.02 MB
+--------------------------------------------------
+--------------------------------------------------
+---------------- End of Log file -----------------
+--------------------------------------------------
